@@ -17,7 +17,6 @@ The code was developed for research experiments related to LHD construction.
 
 # Repository Structure
 
-.
 ├── GLP.py  
 ├── transformation.py  
 ├── coef.py  
