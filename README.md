@@ -17,15 +17,14 @@ The code was developed for research experiments related to LHD construction.
 
 # Repository Structure
 
-├── GLP.py  
-├── transformation.py  
-├── coef.py  
-├── distance.py  
-├── candidate.py  
-├── ga_experiment.py  
-├── run_example.py  
-├── Simulation_finall.ipynb  
-│  
+── GLP.py  
+── transformation.py  
+── coef.py  
+── distance.py  
+── candidate.py  
+── ga_experiment.py  
+── run_example.py  
+── Simulation_finall.ipynb    
 └── README.md  
 
 ---
