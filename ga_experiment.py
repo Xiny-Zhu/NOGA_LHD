@@ -173,7 +173,7 @@ def run_ga_for_N(
 
     LSL_d = 0
     USL_d = (N + 1) * k // 3
-    LSL_rho = 0.05
+    LSL_rho = 0
     USL_rho = 1.0
 
     populations = population_individual_xiu(columns, ROU1, k, POP_SIZE, self_constraint)
