@@ -80,7 +80,7 @@ Includes
 
 ---
 
-## ga_experiment.py
+## ga_l1_l2_single_m.py
 
 Implements the main **genetic algorithm optimization process**.
 
